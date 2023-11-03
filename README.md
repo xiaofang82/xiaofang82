@@ -1,5 +1,8 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=22C1F7&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+Github)](https://git.io/typing-svg)
 
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Achuan-2&theme=minimal" />
+</div>
 <!--
 **xiaofang82/xiaofang82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
