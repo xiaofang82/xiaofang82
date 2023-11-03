@@ -1,9 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=22C1F7&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+Github)](https://git.io/typing-svg)
 
-### Welcome to my Github  
 <div align="center">
 <img src="https://github.com/xiaofang82/xiaofang82/blob/main/123_17.png?raw=true" align="center" height="" width="600" />
 </div>  
+<div align="center">
+![](https://github.com/xiaofang82/xiaofang82/blob/main/123_17.png?raw=true)
+</div> 
+
   
 ### I'm Xiaofang Yang, a student at MITT(Manitoba Institute of Trades and Technology). I was a web developer before, I have a part-time job as PHP programmer by remotely.  
   
